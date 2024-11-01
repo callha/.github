@@ -1,4 +1,4 @@
-# CallHa Labs 是专注构建Web3产品的组织
+# Callha Network Technology Studio 是专注构建Web3产品的组织
 
 + 让数据信息可拥有、可信任、有价值
 + 探索创新构建理想Web3
